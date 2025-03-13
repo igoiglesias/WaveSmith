@@ -15,7 +15,7 @@ WaveSmith brings together three Python tools to streamline your TTS workflow:
 - **Datler**: Takes a folder of WAVs and crafts a clean LJSpeech dataset, ready for training.
 
 ## 🚀 Getting Started
-1. Clone this repo: `git clone https://github.com/yourusername/WaveSmith.git`  
+1. Clone this repo: `git clone https://github.com/igoiglesias/WaveSmith.git`  
 2. Install dependencies: `pip install -r requirements.txt`  
 3. Start crafting—check each tool’s folder for usage examples!
 
