@@ -175,8 +175,8 @@ cython_debug/
 
 
 dataset/*
-!dataset/
+!dataset/.gitkeep
 audios/*
-!audios/
+!audios/.gitkeep
 videos/*
-!videos/
+!videos/.gitkeep
